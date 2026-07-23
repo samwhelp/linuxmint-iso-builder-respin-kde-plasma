@@ -26,7 +26,6 @@ accountsservice
 
 
 
-
 ##
 ## ## Package / lightdm / greeter / gtk
 ##
@@ -37,6 +36,11 @@ accountsservice
 
 
 
+##
+## ## Package / lightdm / greeter / slick
+##
+
+#slick-greeter
 
 
 
