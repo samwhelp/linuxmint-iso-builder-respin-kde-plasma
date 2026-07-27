@@ -59,3 +59,12 @@ sddm
 ##
 
 sddm-theme-maldives
+
+
+
+
+##
+## ## Package / gdm
+##
+
+#gdm3
